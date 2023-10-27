@@ -1,0 +1,49 @@
+p{
+    font-family:arial;
+}
+.talk{
+    margin-top:133px;
+    line-height:24.5px;
+    font-size:18px;
+    font-family: arial;
+    font-weight: bold;
+    margin-bottom:0px;
+    width:280px;
+    opacity:0.9;
+}
+.view{
+    opacity:0.725;
+    width:280px;
+    margin-top:4px;
+    font-family:arial;
+    font-size:14px;
+}
+.mkbhd{
+    opacity:0.725;
+    width:280px;
+    font-family:arial;
+    font-size:14px;
+    margin-top:19.2px;
+}
+.text2{
+    line-height:20px;
+    opacity:0.725;
+    margin-top:18px;
+    width:280px;
+    font-size:14px;
+    font-family: arial;
+}
+.apple{
+    margin-top:105px;
+    width:610px;
+    font-size:14px;
+    text-align:center;
+    color:white;
+    padding-top:18.5px;
+    padding-bottom:18.5px;
+    background-color: rgb(227, 65, 64);
+}
+.shop:hover{
+    cursor:pointer;
+    text-decoration: underline;
+}
